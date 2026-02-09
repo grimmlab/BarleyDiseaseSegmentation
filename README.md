@@ -35,9 +35,8 @@ docker run -it \
 
 ```bash
 pip install -e .
-# Optional: edit config.py to customise paths
 ```
-
+Optional: edit barley_disease_segmentation>config.py to customise paths
 ## 2. Dataset Setup 
 
 Download the following three folders from Mendeley Data, DOI: 10.17632/4ny92p2r8f.1:
@@ -75,10 +74,10 @@ python Inference_quick_start.py \
 Reproduce all figures from the manuscript.
 
 ```bash
-cd Figure_Reproduction
-python reproduce_figures.py
+cd Figure\ Reproduction/
+python Reproduce_figures.py
 ```
-
+The figures are in the respective folders in Figure Reproduction
 
 ### 3C. Complete Pipeline
 
@@ -93,7 +92,7 @@ Supported segmentation tasks:
 #### Run Pipeline
 
 ```bash
-cd Complete_Pipeline
+cd Complete\ Pipeline/
 
 python Complete_pipeline.py \
     --task multiclass \
