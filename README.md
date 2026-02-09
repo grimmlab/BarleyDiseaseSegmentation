@@ -99,7 +99,7 @@ python Complete_pipeline.py \
     --skip-hpo
 ```
 
-If `--skip-hpo` is omitted, the pipeline performs **broad + refined Optuna HPO** (~2 days on a single GPU).
+If `--skip-hpo` is omitted, the pipeline performs **broad + refined Optuna HPO** (~6 days on a single GPU).
 
 ---
 
