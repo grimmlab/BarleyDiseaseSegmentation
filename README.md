@@ -126,8 +126,9 @@ The pipeline automatically executes:
 
 ## 4. Citing This Work
 
-If you use this repository in scientific work, please cite:
-
+This work is currently under review:
+Deep Learning–Based Identification of Visually Similar Foliar Diseases in Field-Grown Barley
+Sofia Martello, Nikita Genze & Dominik G. Grimm
 ```
 
 ```
