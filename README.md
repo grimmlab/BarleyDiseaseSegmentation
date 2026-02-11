@@ -39,7 +39,7 @@ pip install -e .
 Optional: edit barley_disease_segmentation>config.py to customise paths
 ## 2. Dataset Setup 
 
-Download the following three folders from Mendeley Data, DOI: 10.17632/4ny92p2r8f.1:
+Download the following three folders from Mendeley Data, DOI: [doi.org/10.17632/4ny92p2r8f.1](doi.org/10.17632/4ny92p2r8f.1):
 
 * `hpo_data/`
 * `inference_data/`
