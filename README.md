@@ -126,8 +126,6 @@ The pipeline automatically executes:
 
 ## 4. Citing This Work
 
-This work is currently under review:  
-```
-Deep Learning–Based Identification of Visually Similar Foliar Diseases in Field-Grown Barley  
-Sofia Martello, Nikita Genze & Dominik G. Grimm
-```
+Martello, S., Genze, N., & Grimm, D. G. (2026).  
+Deep learning–based identification of visually similar foliar diseases in field-grown barley.  
+Plant Methods.
