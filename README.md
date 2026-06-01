@@ -9,8 +9,6 @@ This repository provides a unified, end-to-end system for automated segmentation
 - Fully automated **figure reproduction** from the associated manuscript  
 - A **complete training pipeline** with two-phase HPO, encoder selection, retraining, and inference  
 
-**Reference Paper:**
-
 ## 1. Environment Setup
 
 ### 1.1 Clone Repository
